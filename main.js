@@ -9,6 +9,7 @@ console.log(arr)
     var dropdownValue = document.getElementById("dropdown").value
     console.log(dropdownValue)
 
+    c
         var checkboxesArray = []
 var checkboxes = document.querySelectorAll('input[type=checkbox]:checked')
 
